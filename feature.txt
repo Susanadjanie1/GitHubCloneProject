@@ -1,1 +1,1 @@
-This feature introduces a dynamic greeting that displays "Good morning"
+This is a new feature. 
